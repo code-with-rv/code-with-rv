@@ -4,22 +4,22 @@
 
 - 🔭 I'm currently working on ** end-to-end MLOps pipeline on GCP using Vertex AI, Cloud Run & Cloud Build to automate model training, deployment, and drift monitoring.**
 
-- 🌱 I'm currently learning ** Prometheus + Grafana (or CloudWatch) to monitor the Kubernetes project.**
+- 🌱 I'm currently learning  Prometheus + Grafana (or CloudWatch) to monitor the Kubernetes project.
 
-- 👯 I'm looking to collaborate  ** on open-source cloud security projects **
-focusing on GCP IAM policies, compliance automation, and Terraform security modules.**
+- 👯 I'm looking to collaborate  on open-source cloud security projects
+focusing on GCP IAM policies, compliance automation, and Terraform security modules.
 
-- 🤝 I'm looking for help with **Seeking mentorship on MLOps pipelines, cloud cost optimization,
-GCP security and production-grade Kubernetes for career growth.**
+- 🤝 I'm looking for help with Seeking mentorship on MLOps pipelines, cloud cost optimization,
+GCP security and production-grade Kubernetes for career growth.
 
-- 💬 Ask me about **GCP, Kubernetes, Terraform, MLOps pipelines, diabetes prediction
-model deployment, cloud cost monitoring, and CI/CD automation.**
+- 💬 Ask me about GCP, Kubernetes, Terraform, MLOps pipelines, diabetes prediction
+model deployment, cloud cost monitoring, and CI/CD automation.
 
-- 📫 How to reach me **ravikumar2012002@gmail.com**
+- 📫 How to reach me ravikumar2012002@gmail.com
 
-- ⚡ Fun fact **I spend 10% of my time writing code and 90% figuring out why it worked.**
+- ⚡ Fun fact I spend 10% of my time writing code and 90% figuring out why it worked.
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1edExNlp65cTR_CkVDl-2N3cgv4vK5wwZ/view?usp=drivesdk](https://drive.google.com/file/d/1edExNlp65cTR_CkVDl-2N3cgv4vK5wwZ/view?usp=drivesdk)**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1edExNlp65cTR_CkVDl-2N3cgv4vK5wwZ/view?usp=drivesdk](https://drive.google.com/file/d/1edExNlp65cTR_CkVDl-2N3cgv4vK5wwZ/view?usp=drivesdk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

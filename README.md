@@ -2,12 +2,11 @@
 
 ### Cloud Engineer
 
-- 🔭 I'm currently working on **Currently working on an end-to-end MLOps pipeline on GCP using Vertex AI, Cloud Run & Cloud Build to automate model training, deployment, and drift monitoring.
-**
+- 🔭 I'm currently working on ** end-to-end MLOps pipeline on GCP using Vertex AI, Cloud Run & Cloud Build to automate model training, deployment, and drift monitoring.**
 
-- 🌱 I'm currently learning ** Prometheus + Grafana (or CloudWatch) to monitor the Kubernetes project.
+- 🌱 I'm currently learning ** Prometheus + Grafana (or CloudWatch) to monitor the Kubernetes project.**
 
-- 👯 I'm looking to collaborate on ** on open-source cloud security projects
+- 👯 I'm looking to collaborate  ** on open-source cloud security projects **
 focusing on GCP IAM policies, compliance automation, and Terraform security modules.**
 
 - 🤝 I'm looking for help with **Seeking mentorship on MLOps pipelines, cloud cost optimization,

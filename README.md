@@ -2,7 +2,7 @@
 
 ### Cloud Engineer
 
-- 🔭 I'm currently working on ** end-to-end MLOps pipeline on GCP using Vertex AI, Cloud Run & Cloud Build to automate model training, deployment, and drift monitoring.**
+- 🔭 I'm currently working on  end-to-end MLOps pipeline on GCP using Vertex AI, Cloud Run & Cloud Build to automate model training, deployment, and drift monitoring.
 
 - 🌱 I'm currently learning  Prometheus + Grafana (or CloudWatch) to monitor the Kubernetes project.
 

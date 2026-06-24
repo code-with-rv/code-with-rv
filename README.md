@@ -12,8 +12,7 @@ focusing on GCP IAM policies, compliance automation, and Terraform security modu
 - 🤝 I'm looking for help with Seeking mentorship on MLOps pipelines, cloud cost optimization,
 GCP security and production-grade Kubernetes for career growth.
 
-- 💬 Ask me about GCP, Kubernetes, Terraform, MLOps pipelines, diabetes prediction
-model deployment, cloud cost monitoring, and CI/CD automation.
+- 💬 Ask me about GCP, Kubernetes, Terraform, MLOps pipelines,model deployment, cloud cost monitoring, and CI/CD automation.
 
 - 📫 How to reach me ravikumar2012002@gmail.com
 
